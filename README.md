@@ -1,6 +1,4 @@
-Absolutely, Karimi! Here's a clean and professional `README.md` file for your **Nmap Scanner Backend** repository — perfect for GitHub.
 
----
 
 ### ✅ `README.md` (Place this in the root of your backend project)
 
