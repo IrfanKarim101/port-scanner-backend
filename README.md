@@ -1,6 +1,5 @@
 
 
-### ✅ `README.md` (Place this in the root of your backend project)
 
 ````markdown
 # 🛡️ GP-Nmap-Backend
@@ -126,15 +125,4 @@ This project is open-source and MIT licensed. Contributions welcome!
 
 Built with ❤️ by [@IrfanKarim](https://github.com/IrfanKarim101)
 
-```
-
----
-
-Let me know if you'd like:
-
-- A `requirements.txt` template
-- Screenshots, badges (e.g. Docker build status)
-- Deployment instructions (e.g. on Render, Railway, or Fly.io)
-
-You're running a pro-level tool now 👑
 ```
